@@ -1,2 +1,2 @@
-# Cell-Division-Tracker
-This code can automatically track cell division process. 
+# Cell-Feature-Analyzer
+This series of cell analyzer include automatically track cell division process and feature size. 
